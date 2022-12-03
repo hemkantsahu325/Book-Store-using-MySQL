@@ -1,6 +1,6 @@
 # Book-Store-using-MySQL
 
-# Book-Store-using-MySQL
+Book-Store-using-MySQL
 
 Database is connected to local server with localhost/5000;
 
